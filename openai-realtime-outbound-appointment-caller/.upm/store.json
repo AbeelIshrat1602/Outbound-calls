@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"8c9dbebf2cbf273a86ef0a4de68207df","lockfileHash":"e51e78f45bd3e5d24105a8dcdf61c943","guessedImports":["node-fetch","twilio","fastify","ws","dotenv","@fastify/formbody","@fastify/websocket"],"guessedImportsHash":"5cf28a7bc5c307c31f39c7ec89dc66c8"}}}
